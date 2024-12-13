@@ -15,7 +15,7 @@ book:
         href: about.qmd
       - text: "License"
         href: license.qmd
-  title: "Open Music EUrope"
+  title: "Open Music Europe"
   subtitle: "Reading on music economics, prices, valuation and measurements"
   date: today
   sidebar:
