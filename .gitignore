@@ -6,3 +6,5 @@ _book/
 *.pdf
 *.html
 *.epub
+
+/.quarto/
