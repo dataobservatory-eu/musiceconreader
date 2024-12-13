@@ -1,0 +1,88 @@
+project:
+  type: book
+
+papersize: A4
+
+version: 0.1.0
+doi: 10.5281/zenodo.6088844
+
+repo-url: https://github.com/dataobservatory-eu/musiceconreader
+
+book:
+  page-footer:
+    center:
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
+  title: "Open Music EUrope"
+  subtitle: "Reading on music economics, prices, valuation and measurements"
+  date: today
+  sidebar:
+    tools:
+      - icon: github
+        href: https://github.com/dataobservatory-eu/economics_reader
+        aria-label: GitHub
+  sharing:
+    - linkedin
+    - facebook
+    - twitter
+  downloads: [pdf, epub, docx]
+  chapters:
+    - index.qmd
+    - glossary.qmd
+    - economics.qmd
+    - surveying.qmd
+    - references.qmd
+  author:
+     - name: "Daniel Antal, CFA"
+       orcid: 0000-0001-7513-6760
+       affiliations:
+               - name: Reprex
+                 address: "Saturnusstraat 14"
+                 city: The Hague
+                 state: Zuid-Holland
+                 country: The Netherlands
+                 postal-code: "2516 AH"
+                 url: https://reprex.nl/
+     - name: Mester, Anna Márta
+       orcid: 0009-0008-2274-8163
+       affiliations:
+               - name: Reprex
+                 address: "Saturnusstraat 14"
+                 city: The Hague
+                 state: Zuid-Holland
+                 country: The Netherlands
+                 postal-code: "2516 AH"
+                 url: https://reprex.nl/
+editor: visual
+
+bibliography:
+  - bib/antal.bib
+  - bib/administrativedata.bib
+  - bib/competition.bib
+  - bib/identifiers.bib
+  - bib/ISOdata.bib
+  - bib/measuringculture.bib
+  - bib/metadata.bib
+  - bib/mme.bib
+  - bib/musicbusiness.bib
+  - bib/musicvaluation.bib
+  - bib/OpenMusE.bib
+  - bib/privatelyhelddata.bib
+  - bib/registers.bib
+  - bib/zeropricemusic.bib
+
+
+format:
+  html:
+    theme: cosmo
+  epub: default
+#  docx:
+#   reference-doc: docx/230728_TEMPLATE_for_D51.docx
+  pdf:
+    colorlinks: true
+    latex:
+       - lof: true
+    documentclass: scrreprt
+

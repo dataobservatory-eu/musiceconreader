@@ -1,0 +1,42 @@
+
+# Economic models
+
+A very straightforward overview of the valuation of recorded music can be found in [@pwc_valuing_2008]. It is a non-scientific and very practical consulting overview, and it is a great start.
+
+## Music business
+
+A reader on what is the music economy, how it is structured, how money is flowing between its parts.
+
+-  _The music business and recording industry delivering music in the 21st century_ [@hull_music_2011]; the standard description of the recorded side of the music industry.
+-   _Statistical, Ecosystems and Competitiveness Analysis of the Media and Content Industries. The Music Industry_ [@leurdijk_statistical_music_2012]; the adoptation of the previous model for Europe.
+-  _Ivesting in Music. How music companies discover, nurture and promote talent_ [@ifpi_investing_2012]; how IP assets are financed, how those investments are recovered.
+
+
+
+## Hedonic price models
+
+We are particularly interested in using hedonic price models in Slovakia.  
+
+## Experimental methods
+
+## Discounted cash flow models
+
+DCF models are usually very hard to use in music, because we do not have consistently the data. But by now perhaps we would have sufficient data; for this, we would need to estimate the risk of the revenue, which is an empirical economics task (i.e., the calculation of the appropriate discount rate.)
+
+
+## Market comparator methods
+
+This is the most used model that 
+
+## Zero price (when the user does not pay)
+
+-  _Online platforms and digital advertising_ [@cma_online_platforms_advertising_2020]
+
+## Total value or external value models
+
+In Slovakia we developed such models, and we have developed an R package that calculates such values; this is compatible with the Live music Census methodology. This is not relevant directly for the needs of SOZA and Artisjus, but if there are researchers interested in this, we could assist them to write a separate publication, and provide the data analysis. 
+
+
+## Shadow prices
+
+-  Online platforms and digital advertising [@cma_online_platforms_advertising_2020]

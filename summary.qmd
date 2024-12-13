@@ -1,0 +1,27 @@
+
+# Summary
+
+The observation of sales volumes (quantities), prices (including licensing tariffs, sales prices, implied or shadow prices), revenues (quantities*price, historical, current and future), and economic valuation are interlinked economic terms.
+
+The economic value of the use of music equals to the discounted future revenues. The expected future revenues can be forecasted with the observation of current and past prices and quantities.
+
+In a normative setting, price setting and valuation are inter-related tasks. The future sales at the correct price will provide the correct economic value in terms of correct revenue streams. The correct price is the price that reflects the value of music, and the correct value is the discounted future revenue earned with the correct price.
+
+Because of the sales configurations of music, including the wide use of zero-price sales (some argue that this is an invention of the music industry itself), and the use of blanket licensing (the user can self-serve for a year any quantity and scope of music from a given repertoire), the observations of past and present revenues, quantities of sales and sales prices is not always straightforward.
+
+All the models that we want to use are targeting the following, seemingly simple variables:
+- past, current and expected future sales volumes
+- past, current, and expected future prices
+- often only available as price x quantity=past, current revenues, and revenue expectations for the future.
+
+Because of the global nature of the music industry (in any music segment, perhaps with the exception of the United States, the music in use is imported), there are two further variables that need to be assessed:
+- the observed or implied risk of the revenues, which is also to be reflected in the discount rate for future (uncertain) revenues
+- exchange rates and risks, as typical artist receive royalties at least in euros, dollars, often yens, and if they have a different national currency, in that currency, too
+- quantity or sales risk, due to technical or user preference changes in terms of chaning sales quantiy
+- price risk, due to changes in the explicit price or the implied (shadow price).
+
+Artisjus and SOZA has been using with their economic advisor all known price setting, price comparison and valuation models known to us up till 2015. We review the literature for this in []
+
+Artisjus and SOZA has developed means to combine population, enterprise survey data with administrative survey data. We review the literature for this in [].
+
+We also used various estimation techniques based on the aforementioned methods to observe quantities and prices. This is where we expect the most methodological novelties, with a particular emphasis on observing unknown quantities in blanket license uses, observing quantities from unknown populations but known price and revenue (streaming), and estimating implied (shadow) prices from observed quantities and revenues.

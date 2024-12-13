@@ -1,0 +1,5 @@
+*This project has received funding from the European Union’s Horizon Europe, research and innovation programme, under Grant Agreement No.* 101095295*. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.*
+
+This document has been prepared by OpenMusE project partners as an account of work carried out within the framework of the EC-GA contract no 101095295 [@openmuse_2023].
+
+Any dissemination of results must indicate that it reflects only the author’s view and that the Commission Agency is not responsible for any use that may be made of the information it contains.

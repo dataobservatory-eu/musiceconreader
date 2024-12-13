@@ -1,0 +1,18 @@
+# Surveying music
+
+
+## Statistical best practice and handbooks
+
+- ESSnet-CULTURE, European Statistical System Network on Culture. Final Report. [@frank_guy_essnet-culture_2012] -- probably the best place to start with survey design.
+
+- Measuring cultural participation [@unesco_institute_for_statistics_measuring_2012]
+
+## ICET
+
+-   _Nowadays Cultural Participation - An update of what to look for and where to look for it_ [@de_haan_nowadays_2012]
+-   _De virtuele cultuurbezoeker - Publieke belangstelling voor cultuurwebsites_ [@de_haan_virtuele_2008]
+
+
+## Measuring music
+
+-  [@uk_music_measuring_2014]

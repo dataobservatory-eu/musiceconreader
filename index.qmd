@@ -1,0 +1,46 @@
+# Music Economics Reader {.unnumbered}
+
+![](png/Banner_OME_Open_Music_Observatory.png){fig-align="center"}
+
+## Disclaimer of Warranties {.unnumbered}
+
+This project has received funding from the European Union’s Horizon
+Europe, research and innovation programme, under Grant Agreement No.
+[101095295](https://cordis.europa.eu/project/id/101095295). This
+document has been prepared by Open Music Europe (OpenMusE) project
+partners as an account of work carried out within the framework of this
+contract.
+
+Any dissemination of results must indicate that it reflects only the
+author’s view and that the Commission Agency is not responsible for any
+use that may be made of the information it contains. Neither Project
+Coordinator, nor any signatory party of Open Music Europe (OpenMusE)
+Project Consortium Agreement, nor any person acting on behalf of any of
+them:
+
+(a) makes any warranty or representation whatsoever, express or implied,
+
+    (i). with respect to the use of any information, apparatus, method,
+    process, or similar item disclosed in this document, including
+    merchantability and fitness for a particular purpose, or
+
+    (ii). that such use does not infringe on or interfere with privately
+    owned rights, including any party's intellectual property, or
+
+    (iii). that this document is suitable to any particular user's
+    circumstance; or
+
+(b) assumes responsibility for any damages or other liability whatsoever
+    (including any consequential damages, even if Project Coordinator or
+    any representative of a signatory party of the Open Music Europe
+    (OpenMusE) Project Consortium Agreement, has been advised of the
+    possibility of such damages) resulting from your selection or use of
+    this document or any information, apparatus, method, process, or
+    similar item disclosed in this document.
+
+For the version history of this document, please refer to our open
+repository, where the change history can be reviewed with timestamps for
+every single file used to create the report:
+<https://github.com/dataobservatory-eu/open-music-observatory>
+
+{{< pagebreak >}}
