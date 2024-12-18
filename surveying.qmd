@@ -11,7 +11,75 @@
 -   *Nowadays Cultural Participation - An update of what to look for and where to look for it* [@de_haan_nowadays_2012]
 -   *De virtuele cultuurbezoeker - Publieke belangstelling voor cultuurwebsites* [@de_haan_virtuele_2008]
 
-## Harmonising data from differnet surveys
+::: {.callout-note}
+
+The ESSNet recommendations suggest measurement from the age of 6 (!), and therefore we did survey children aged 10-14. Given that it is unlikely that in this project children will be surveyed, we can provide some data about what the children added to the CAP surveys in Hungary.
+
+- [x] Please review the targetted population, sampling model, etc recommended by ESSNet. 
+
+- [ ] Is there any advances since the ESSNet study on sampling target population 
+
+:::
+
+We used an 'optimally stratified' sample instead of a stratified sample based on the country's population register.  It was not a fully random sample, however, we asked Kantar to design a sample that minimises the error of measuring the number of concerts visited (a relatively straightforward transaction) based on the Eurobarometer 2013 CAP.  Because in Hungary and (and except for Sweden, in every EU country) the concert visits, and some other music transactions were declining monotonously with age, we oversampled younger people to reduce the average (absolute) measurement error of transactions. 
+
+::: {.callout-note}
+
+Are we going to work with a (truly) random sample? If not, what is the best practice to reduce the measurement error in terms of enjoyment hours and quantities of transactions?
+
+:::
+
+
+::: {.callout-note}
+
+The ESSNet CAP survey is based on the ICET model, which is traced back to quantative sociology and mass media studies into the 1970. 
+
+- [ ] Is there a better model to design the variables expected from a survey that quantifies the transactions and enjoyment hours related to music?
+
+:::
+
+In Hungary, we realised that with very large transaction numbers the ICET model is not very useful in terms of assessing the absolute number of transactions; and eventually our market comparator model used the relative number of transactions (listening hours, watching hours); we believed but did not prove that while the absolute numbers may be biased because of recollection and other biases, the relative numbers (for example, daily listening hours of radio = 4 hour, and daily watching hours of TV=3 hours are unbiased relative to each other, i.e, 4/3.)  With this relaxation we can still claim that if radio listening gives the 30% of enjoyment hours, then the royalties collected should be somehow proportional to this 30%, and at least for similar uses they should provide 30% of the royalty revenue.
+
+For the valuation purposes, out of the ICET model the enjoyment and transactions variables were used. 
+
+We did the following refinements with the model:
+
+- We allowed to estimate enjoyment hours in daily, weekly, monthly and annual quantities; we believed that it was easier to answer if people could say that I listen to the radio daily 2 hours and put on a vinyl record once in a month.
+
+- In 2018 and 2019 we were asking about enjoyment hours in different contexts and devices, for example:
+- I listen to music on my smartphone while travelling daily 1 hour
+- I listen to my turntable at home once in a month for an hour
+- I listen to music on my computer at work for 4 hours to block out the noise.
+
+To make the interview shorter, we did a filtering of the devices used by the person to listen to music and watch audiovisual content (music video being one of the biggest, if not the biggest quantity of enjoying music), then asked how much they used the devices that they had in the context of being at home, travelling, or working.
+
+In terms of visiting frequencies, while keeping a cinema or concert visit as 1.5 hours, we asked the frequencies in different ways; for example, asking the annual visiting numbers, but also the date of the last visit. For example, if somebody claims to have been visiting concerts 6 times in the last 12 months but the was 1.5 years ago than these answers are not reliable.
+
+We did ask transaction numbers (download of "free", unlicensed copies, purchase of CDs), and these numbers were very different from the transactional statistics of the local IFPI chapters. 
+
+The price information, however, was useful, when asked about last paid ticket price, last unpaid gig, etc. 
+
+In Hungary and Slovakia, we were interested in the revenues of artists and microenterprises from various sources where we had no direct information from, and prices. Performers are a very good source of information for ticket prices for small venues.
+
+::: {.callout-note}
+
+We collected data by inviting members of Artisjus, SOZA, and non-members via other music associations.  We achieved 5-25% answer rate depending on the circumstances.  Because our sampling was not random, we did the following:
+
+- we took variables where we had complete information, for example, Artijus annual payouts to members and non-members in Hungary;
+- we compared reported Artisjus royalties to the known, anonymous, but full distribution of royalties
+- we kept collecting answers until the reported payout curve and the actual payout curve correlated to 99%.
+
+- [ ] What do you think as a best practice to ensure that an MSME survey where random sampling is not possible will remain unbiased?
+
+- [ ] What are the quality metrics used for the sampling?
+
+:::
+
+## Harmonising data from different surveys
+
+- This is the work we planned to do in the project about [survey harmonisation](https://github.com/dataobservatory-eu/retroharmonize-publication).
+
+- We started to create a literature review on survey harmonisation; which is something that we want to do here, too, because we want to harmonise the output of the survey with earlier surveys in the same country, and the same variables estimated in other countries.
 
 - [@antal_kult_harmonization_2023]
 

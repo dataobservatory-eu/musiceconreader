@@ -1,6 +1,6 @@
 # Economic models
 
-A very straightforward overview of the valuation of recorded music can be found in [@pwc_valuing_2008]. It is a non-scientific and very practical consulting overview, and it is a great start.
+A very straightforward overview of the valuation of recorded music can be found in [@pwc_valuing_2008]. It is a non-scientific and very practical consulting overview, and it is a great start. Also, do not re-invent the word, here is where we [paused](https://music.dataobservatory.eu/documents/open_music_europe/economy/report/report_music_europe_data_collection.html) the work in mid-2023.
 
 ## Music business
 
@@ -12,11 +12,17 @@ A reader on what is the music economy, how it is structured, how money is flowin
 
 - _Správa o slovenskom hudobnom priemysle [Slovak Music Industry Report]_ [@antal_slovenskom_hudobnom_2019_en]
 
+## Econometric methods
+
+- We used these models in several cases, for example, in Slovakia in 2018. They maybe useful for review, but they require rather sensitive data.
+
 ## Hedonic price models
 
 We are particularly interested in using hedonic price models in Slovakia.
 
 ## Experimental methods
+
+- We used experimental models in Hungary for establishing the value of the rigth in restaurants and retail outlet stores.
 
 ## Discounted cash flow models
 
@@ -27,6 +33,8 @@ DCF models are usually very hard to use in music, because we do not have consist
 This is the most used model in our work.
 
 -   A Market Comparator Model for Valuing the Use of Music [@antal_market_comparator]
+
+-   We used this model in the _Private Copying in Croatia_ [@antal_pcr_croatia_2019] report essential in the same format as we used it in Hungary and Slovakia. In Hungary we used a far more elaborate survey and we identified a lot more uses.
 
 ## Zero price (when the user does not pay)
 
