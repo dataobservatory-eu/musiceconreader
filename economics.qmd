@@ -47,3 +47,4 @@ In Slovakia we developed such models, and we have developed an R package that ca
 ## Shadow prices
 
 -   Online platforms and digital advertising [@cma_online_platforms_advertising_2020]
+

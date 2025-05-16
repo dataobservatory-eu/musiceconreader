@@ -3,7 +3,7 @@ project:
 
 papersize: A4
 
-version: 0.1.0
+version: 0.2.0
 doi: 10.5281/zenodo.6088844
 
 repo-url: https://github.com/dataobservatory-eu/musiceconreader
@@ -31,6 +31,7 @@ book:
   chapters:
     - index.qmd
     - glossary.qmd
+    - overview.qmd
     - economics.qmd
     - surveying.qmd
     - references.qmd
@@ -78,8 +79,8 @@ format:
   html:
     theme: cosmo
   epub: default
-#  docx:
-#   reference-doc: docx/230728_TEMPLATE_for_D51.docx
+  docx:
+    reference-doc: docx/OpenMusE_simple_template.docx
   pdf:
     colorlinks: true
     latex:
